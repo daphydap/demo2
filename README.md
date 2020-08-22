@@ -5,3 +5,6 @@ edit 2
 
 vs code editgit 
 
+## Local Development
+
+1. Open blah blah i browser.
